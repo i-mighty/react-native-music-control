@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:2:11-44
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:1-8:12
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:1-8:12
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:4:5-6:19
+service#com.tanguyantoine.react.MusicControlNotification$NotificationService
+ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:5:9-110
+	android:stopWithTask
+		ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:5:18-46
+	android:name
+		ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml:5:47-107
+uses-sdk
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AppProjects\AudioBook\node_modules\react-native-music-control\android\src\main\AndroidManifest.xml
